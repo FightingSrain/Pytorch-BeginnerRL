@@ -1,3 +1,3 @@
-# Pytorch-RL-Beginner
+# Pytorch-BeginnerRL
 
 `Update not completed`
